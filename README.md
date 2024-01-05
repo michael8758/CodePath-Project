@@ -3,7 +3,7 @@
 
 Submitted by: **Michael Liang**
 
-**Theme Swap** is an app that... [TODO] 
+**Theme Swap** is an app that allows the user to customize the appearance of elements within the app. By clicking on one of the 4 buttons on the bottom of the screen, the user is able to customize either the background color, text color, or text size. 
 
 Time spent: **5** hours spent in total
 
@@ -24,6 +24,20 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+**Spotify**
+- Allows users to personalize the appearance of their playlist
+- Access music files through the computer's local files
+- Adopts a followers and following friends feature
+
+**Notion**
+- Provides the user with full creative control over the appearance of their notes/documents
+- The user interface is very easy to navigate around
+- Allows public access to pre-made templates of all genres
+
+**Snapchat**
+- Variety of camera filters
+- Only saves chat logs for 24 hours
+- Sends pictures as a main method of interaction instead of convential text messaging 
 
 ## Notes
 
