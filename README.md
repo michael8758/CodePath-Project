@@ -1,18 +1,21 @@
 # CodePath-Project
-# Prework - *Name of App Here*
+# Prework - *Theme Swap*
 
-Submitted by: **Your Name Here**
+Submitted by: **Michael Liang**
 
-**Name of your app** is an app that... [TODO] 
+**Theme Swap** is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [ ] Users see a screen with 3 labels and 4 buttons
+- [ ] Tapping the "Change Background Color" button changes the screen color to a random color
+- [ ] Tapping the "Change Text Color" button changes the label text color to a random color
+- [ ] Tapping the "Increase Text Size" button increases the size of the label text
+- [ ] Tapping the "Decrease Text Size" button decreases the size of the label text
  
 ## Video Walkthrough
 
@@ -24,11 +27,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Initially, the Xcode program seemed a bit complicated with all the options and features that it has, but as I explored and played around with the different features, it got easier to navigate around. Additionally, as it was my first time coding with Swift, figuring out the syntax and documentation was also a process I learned to navigate around with time and trial and error. Overall, my experience so far with swift is positive and I hope to be able to continue this with Codepath.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Michael Liang
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
