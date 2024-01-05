@@ -11,11 +11,8 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users see a screen with 3 labels and 4 buttons
-- [ ] Tapping the "Change Background Color" button changes the screen color to a random color
-- [ ] Tapping the "Change Text Color" button changes the label text color to a random color
-- [ ] Tapping the "Increase Text Size" button increases the size of the label text
-- [ ] Tapping the "Decrease Text Size" button decreases the size of the label text
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 <div>
@@ -44,7 +41,10 @@ The following **required** functionality is completed:
 
 ## Notes
 
-Initially, the Xcode program seemed a bit complicated with all the options and features that it has, but as I explored and played around with the different features, it got easier to navigate around. Additionally, as it was my first time coding with Swift, figuring out the syntax and documentation was also a process I learned to navigate around with time and trial and error. Overall, I enjoyed my experience so far with Swift and I hope to further pursue this interest of mine with Codepath.
+Initially, the Xcode program seemed a bit complicated with all the options and features that it has, but as I explored and played around with the different features, it got easier to navigate around. Additionally, as it was my first time coding with Swift, figuring out the syntax and documentation was also a process I learned to navigate around with time and trial and error. After much exploration and learning on my own, I developed features in addition to the ones that were required by code path. 
+- Tapping the "Change Text Color" button changes the label text color to a random color
+- Tapping the "Increase Text Size" button increases the size of the label text
+- Tapping the "Decrease Text Size" button decreases the size of the label text
 
 ## License
 
