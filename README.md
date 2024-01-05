@@ -37,7 +37,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 **Snapchat**
 - Variety of camera filters
 - Only saves chat logs for 24 hours
-- Sends pictures as a main method of interaction instead of convential text messaging 
+- Sends pictures as a main method of interaction instead of conventionall text messaging 
 
 ## Notes
 
