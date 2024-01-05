@@ -18,10 +18,11 @@ The following **required** functionality is completed:
 - [ ] Tapping the "Decrease Text Size" button decreases the size of the label text
  
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/e6ff133c78e04567b18cdf4fcb1aec39">
+    <a href="https://www.loom.com/share/e6ff133c78e04567b18cdf4fcb1aec39">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e6ff133c78e04567b18cdf4fcb1aec39-with-play.gif">
+ 
 
 ## App Brainstorming (Step 4)
 **Spotify**
