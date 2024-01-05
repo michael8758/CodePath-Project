@@ -27,7 +27,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Initially, the Xcode program seemed a bit complicated with all the options and features that it has, but as I explored and played around with the different features, it got easier to navigate around. Additionally, as it was my first time coding with Swift, figuring out the syntax and documentation was also a process I learned to navigate around with time and trial and error. Overall, my experience so far with swift is positive and I hope to be able to continue this with Codepath.
+Initially, the Xcode program seemed a bit complicated with all the options and features that it has, but as I explored and played around with the different features, it got easier to navigate around. Additionally, as it was my first time coding with Swift, figuring out the syntax and documentation was also a process I learned to navigate around with time and trial and error. Overall, I enjoyed my experience so far with Swift and I hope to further pursue this interest of mine with Codepath.
 
 ## License
 
