@@ -20,9 +20,11 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 <div>
     <a href="https://www.loom.com/share/e6ff133c78e04567b18cdf4fcb1aec39">
+    </a>
     <a href="https://www.loom.com/share/e6ff133c78e04567b18cdf4fcb1aec39">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e6ff133c78e04567b18cdf4fcb1aec39-with-play.gif">
- 
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e6ff133c78e04567b18cdf4fcb1aec39-1704429494752-with-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 **Spotify**
